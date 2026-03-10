@@ -1,0 +1,5 @@
+instructions.txt
+terminal 1 with backend to run 
+cd backend && uvicorn main:app --reload(after venv activate)
+terminal 2 frontend
+cd frontend && npm run dev
